@@ -15,7 +15,7 @@ namespace AzureML
         public string[,] Values { get; set; }
     }
 
-    class Program
+    class IncomeExperiment
     {
         static void Main(string[] args)
         {
